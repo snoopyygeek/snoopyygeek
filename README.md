@@ -1,8 +1,8 @@
-![waving-hand_medium-dark-skin-tone_1f44b-1f3fe_1f3fe (1)](https://github.com/user-attachments/assets/8bf4fa57-fc95-4a4e-9aea-e7cbab04efa5)
+
 
   </div>
 
-<h1 align="center">Hi, I'm Sneha! <img src="waving-hand_medium-dark-skin-tone_1f44b-1f3fe_1f3fe.gif" alt="Waving hand emoji" width="40" height="40"></h1>
+<h1 align="center">Hi, I'm Sneha! <img ![waving-hand_medium-dark-skin-tone_1f44b-1f3fe_1f3fe (1)](https://github.com/user-attachments/assets/8bf4fa57-fc95-4a4e-9aea-e7cbab04efa5)></h1>
 <h3 Aspiring software developer </h3>
 <h3 align="center">I'm an honors computing science student at the University of Alberta. I'm passionate about creating software that solves real-world problems and drives innovation. </h3>
 
