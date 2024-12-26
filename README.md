@@ -2,11 +2,9 @@
   </div>
 
 <h1 align="center">Hi, I'm Sneha! <img src="waving-hand_medium-dark-skin-tone_1f44b-1f3fe_1f3fe.gif" alt="Waving hand emoji" width="40" height="40"></h1>
+**Aspiring software developer**
 <h3 align="center">I'm an honors computing science student at the University of Alberta. I'm passionate about creating software that solves real-world problems and drives innovation. </h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hamidatb&label=Reads&color=ffb8f2&style=flat-square" alt="hamidatb" />
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
