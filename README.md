@@ -53,4 +53,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
 </p>
-<a href="(https://streak-stats.demolab.com/?user=snoopyygeek&theme=dark)"><img src="https://streak-stats.demolab.com/?user=snoopygeek&theme=dark" alt="Sneha's Streak" /></a>
