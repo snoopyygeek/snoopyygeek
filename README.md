@@ -53,6 +53,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
    <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
-    <img src="https://en.wikipedia.org/wiki/Android_Studio#/media/File:Android_Studio_Logo_2024.svg" alt="androidstudio" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Android_Studio_Logo_2024.svg" alt="androidstudio" width="40" height="40"/>
   </a>
 </p>
