@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm Sneha!👋🏾</h1> 
 <h3 Aspiring software developer </h3>
-<h3 align="center">A second year honors computing science student at the University of Alberta, passionate about creating software that solves real-world problems and drives innovation. Let's comect and shape the future of tech together! </h3>
+<h3 align="center">A second year honors computing science student at the University of Alberta, passionate about creating software that solves real-world problems and drives innovation. Let's connect and shape the future of tech together! </h3>
 
 
 <h3 align="left">Connect with me:</h3>
