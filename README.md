@@ -1,8 +1,12 @@
-### <a href="https://emoji.gg/emoji/3958-computer"><img src="https://cdn3.emoji.gg/emojis/3958-computer.gif" width="64px" height="64px" alt="computer"></a> welcome to Shana's github...
-⤹｡⋆ ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ ☽˚｡˚ 100% programmer
+### <a href="https://emoji.gg/emoji/3958-computer"><img src="https://cdn3.emoji.gg/emojis/3958-computer.gif" width="64px" height="64px" alt="computer"></a> welcome to Sneha's github ✧˚ ༘ ⋆
+█▀ █▄░█ █▀▀ █░█ ▄▀█
+▄█ █░▀█ ██▄ █▀█ █▀█
+
+⤹｡⋆ ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ ☽˚｡˚ 100% caffeinated
 <br />
 
-Hey there! My name is Shana Nursoo, a computer science student at Simon Fraser University located in Vancouver, I'm on the path to master the art of machine learning and app development! Aside from programming, I'm engaged in scholary writing and philanthropy by heart. 
+Hey there! It's Sneha here, an honors computing science student at the University of Alberta located in Edmonton AB.  I'm currently exploring machine learning and app development! Aside from programming, I loveee playing with my cats and am almost always on caffeine☕️ 
+
 
 If you are looking for a aspiring ML engineer whose not only passionate about programming but the welfere of tech community, let's have a chat!
 
