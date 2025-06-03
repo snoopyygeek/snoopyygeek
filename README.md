@@ -1,4 +1,4 @@
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium-Dark%20Skin%20Tone.png" alt="Woman Technologist Medium-Dark Skin Tone" width="25" height="25" /></a> welcome to Sneha's github ✧˚ ༘ ⋆
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Woman%20Technologist.webp" alt="Woman Technologist" width="25" height="25" /></a> welcome to Sneha's github ✧˚ ༘ ⋆
 
 ⤹｡⋆ ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ ☽˚｡˚ 100% caffeinated
 <br />
@@ -13,9 +13,9 @@ If you are looking for a aspiring ML engineer whose not only passionate about pr
 <h3>personal info</h3>
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien%20Monster.webp" alt="Alien Monster" width="25" height="25" /> I’m currently an AI4Good Lab machine learning fellow working from Amii
-- 💻 prev vp social and current vp finance of the Undergraduate Association of Computation Science, representing 1200+ uofa undergrad cs students
-- 💫 fun-fact(s): I have 17 cats back at home and am currently working on my portfolio website 
-- 🛸 reach out to me: snehalat@ualberta.ca :)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> prev vp social and current vp finance of the Undergraduate Association of Computation Science, representing 1200+ uofa undergrad cs students
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" /> fun-fact(s): I have 17 cats back at home and am currently working on my portfolio website 
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="25" height="25" /> reach out to me: snehalat@ualberta.ca :)
 
                             ╱|、
                           (˚ˎ 。7    
