@@ -6,7 +6,7 @@
 Hey there! It's Sneha here, an honors computing science student at the University of Alberta located in Edmonton AB.  I'm currently exploring app development and machine learning! Aside from programming, I love playing with my cats and am almost always on caffeine <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Food%20and%20Drink/Hot%20Beverage.webp" alt="Hot Beverage" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Cat%20Face.webp" alt="Cat Face" width="25" height="25" />
 
 
-If you are looking for a passionate software developer, let's have a chat! 
+If you are looking for a passionate software developer and machine learning enthusiast, let's have a chat! 
  ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDE1aDJod3U1eWJyaG54OXFsZXNlcXd0b3hzbTZvOW9vamZ5cjd3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkceXNDw4Agryfrwz8/giphy.gif" />
