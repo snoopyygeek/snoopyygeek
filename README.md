@@ -1,16 +1,12 @@
 ### <a href="https://emoji.gg/emoji/3958-computer"><img src="https://cdn3.emoji.gg/emojis/3958-computer.gif" width="64px" height="64px" alt="computer"></a> welcome to Sneha's github ✧˚ ༘ ⋆
 
-█▀ █▄░█ █▀▀ █░█ ▄▀█
-▄█ █░▀█ ██▄ █▀█ █▀█
-
-
 ⤹｡⋆ ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ ☽˚｡˚ 100% caffeinated
 <br />
 
 Hey there! It's Sneha here, an honors computing science student at the University of Alberta located in Edmonton AB.  I'm currently exploring machine learning and app development! Aside from programming, I loveee playing with my cats and am almost always on caffeine☕️ 
 
 
-If you are looking for a aspiring ML engineer whose not only passionate about programming but the welfere of tech community, let's have a chat!
+If you are looking for a aspiring ML engineer whose not only passionate about programming but the welfere of tech community, let's have a chat!      ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDE1aDJod3U1eWJyaG54OXFsZXNlcXd0b3hzbTZvOW9vamZ5cjd3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkceXNDw4Agryfrwz8/giphy.gif" />
 
@@ -22,7 +18,7 @@ If you are looking for a aspiring ML engineer whose not only passionate about pr
 - 🛸 reach out to me: snehalat@ualberta.ca :)
 
                             ╱|、
-                          (˚ˎ 。7  
+                          (˚ˎ 。7    
                            |、˜〵          
                           じしˍ,)ノ
 
