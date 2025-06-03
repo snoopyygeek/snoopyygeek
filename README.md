@@ -23,6 +23,8 @@ If you are looking for a aspiring ML engineer whose not only passionate about pr
                           じしˍ,)ノ
 
 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="25" height="25" />
+
 <br />
 
 ![Sneha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=snoopyygeek&theme=radical&hide_border=false)
