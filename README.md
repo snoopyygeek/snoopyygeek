@@ -1,6 +1,8 @@
 ### <a href="https://emoji.gg/emoji/3958-computer"><img src="https://cdn3.emoji.gg/emojis/3958-computer.gif" width="64px" height="64px" alt="computer"></a> welcome to Sneha's github ✧˚ ༘ ⋆
+
 █▀ █▄░█ █▀▀ █░█ ▄▀█
 ▄█ █░▀█ ██▄ █▀█ █▀█
+
 
 ⤹｡⋆ ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ ☽˚｡˚ 100% caffeinated
 <br />
@@ -23,6 +25,8 @@ If you are looking for a aspiring ML engineer whose not only passionate about pr
                           (˚ˎ 。7  
                            |、˜〵          
                           じしˍ,)ノ
+
+
 <br />
 
 ![Sneha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=snoopyygeek&theme=radical&hide_border=false)
