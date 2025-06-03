@@ -12,7 +12,7 @@ If you are looking for a aspiring ML engineer whose not only passionate about pr
 
 <h3>personal info</h3>
 
-- 👾 I’m currently an AI4Good Lab machine learning fellow working from Amii
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien%20Monster.webp" alt="Alien Monster" width="25" height="25" /> I’m currently an AI4Good Lab machine learning fellow working from Amii
 - 💻 prev vp social and current vp finance of the Undergraduate Association of Computation Science, representing 1200+ uofa undergrad cs students
 - 💫 fun-fact(s): I have 17 cats back at home and am currently working on my portfolio website 
 - 🛸 reach out to me: snehalat@ualberta.ca :)
