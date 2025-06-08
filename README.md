@@ -18,13 +18,14 @@ If you are looking for a passionate software developer and machine learning enth
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" /> fun-fact(s): I have 17 cats back at home and am currently working on my portfolio website 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="25" height="25" /> reach out to me: snehalat@ualberta.ca ツ
 
-                            ╱|、
-                          (˚ˎ 。7    
-                           |、˜〵          
-                          じしˍ,)ノ
-
 
 <br />
 
 ![Sneha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=snoopyygeek&theme=radical&hide_border=false)
+
+
+                            ╱|、
+                          (˚ˎ 。7    
+                           |、˜〵          
+                          じしˍ,)ノ
 
