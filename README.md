@@ -3,7 +3,7 @@
 ⤹｡⋆ ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ ☽˚｡˚ 100% caffeinated
 <br />
 
-Hey there! It's Sneha here, an honors computing science student at the University of Alberta located in Edmonton AB.  I'm currently exploring app development and machine learning! Aside from programming, I love playing with my cats and am almost always on caffeine <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Food%20and%20Drink/Hot%20Beverage.webp" alt="Hot Beverage" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Cat%20Face.webp" alt="Cat Face" width="25" height="25" />
+Hey there! It's Sneha here, an honors computing science student at the University of Alberta and a Software Engineer Intern at TD Bank, located in Toronto ON.  I'm currently exploring app development and machine learning! Aside from programming, I love video calling my cats and am almost always on caffeine <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Food%20and%20Drink/Hot%20Beverage.webp" alt="Hot Beverage" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Cat%20Face.webp" alt="Cat Face" width="25" height="25" />
 
 
 If you are looking for a passionate software developer and machine learning enthusiast, let's have a chat! 
