@@ -13,7 +13,7 @@ If you are looking for a passionate software developer and machine learning enth
 
 <h3>personal info</h3>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Robot.webp" alt="Robot" width="25" height="25" /> i’m currently an AI4Good Lab machine learning fellow working from Amii
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Robot.webp" alt="Robot" width="25" height="25" /> i’m currently a Software Engineer Intern at TD Bank on the DevOps team
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> prev vp social and current vp finance of the Undergraduate Association of Computating Science, representing 1200+ uofa undergrad cs students
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" /> fun-fact(s): I have 17 cats back at home and am currently working on my portfolio website 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="25" height="25" /> reach out to me: snehalat@ualberta.ca ツ
