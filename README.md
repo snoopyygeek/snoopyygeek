@@ -11,7 +11,7 @@ If you are looking for a passionate software developer and machine learning enth
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDE1aDJod3U1eWJyaG54OXFsZXNlcXd0b3hzbTZvOW9vamZ5cjd3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkceXNDw4Agryfrwz8/giphy.gif" />
 
-<h3>personal info</h3>
+<h3>fun facts</h3>
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> i tutor math and computing science in my free time
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" /> fun-fact(s): I have 17 cats back at home and i love ketchup
