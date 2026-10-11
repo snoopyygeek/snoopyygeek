@@ -2,10 +2,10 @@
 
 <br />
 
-Hey there! It's Sneha here, an honors cs student at the University of Alberta. Aside from programming, i love video calling my cats and i'm almost always on caffeine <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Food%20and%20Drink/Hot%20Beverage.webp" alt="Hot Beverage" width="25" height="25" />
+Hey there! it's Sneha here, an honors cs student at the UofA. Aside from programming, i love video calling my cats, and i'm almost always on caffeine <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Food%20and%20Drink/Hot%20Beverage.webp" alt="Hot Beverage" width="25" height="25" />
 
 
-If you are looking for a passionate software developer, let's have a chat! 
+If you're looking for a passionate software developer, let's have a chat! 
  ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDE1aDJod3U1eWJyaG54OXFsZXNlcXd0b3hzbTZvOW9vamZ5cjd3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkceXNDw4Agryfrwz8/giphy.gif" />
